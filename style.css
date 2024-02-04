@@ -1,0 +1,41 @@
+h1 {
+    margin: 1em;
+}
+h2{
+    font-size: 2em;color: rgb(168,195,201);
+   font-family: 'Lobster', sans-serif;
+   text-align: center;
+   box-shadow: 6px 6px 15px rgb(29,49,63);
+   border:2px solid white;
+   border-radius: 15px;
+   text-shadow: 3px 3px 0px rgb(0,0,0,0.2);
+   background-image: url(desktop-wallpaper-clouds-iphone-by-preppy-aesthetic-cloud.jpg);
+   background-size: cover;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: dimgrey;
+    text-align: left
+}
+
+p{
+    font-size: 1em;
+    color: rgb(10, 3, 3);
+}
+
+.conteneur {
+    margin: 2em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box {
+    text-align: center;
+    width: 200px;
+}
+
